@@ -1,0 +1,22 @@
+{
+  "name": "d2-snippets",
+  "displayName": "D2 Language Code Snippets",
+  "description": "A collection of code snippets for the D2 language",
+  "version": "1.0.0",
+  "publisher": "Paracelsus-Rose",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Paracelsus-Rose/D2-Language-Code-Snippets"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "d2",
+        "path": "./d2.json"
+      }
+    ]
+  }
+}

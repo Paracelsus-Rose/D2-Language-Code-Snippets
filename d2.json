@@ -1,0 +1,358 @@
+{
+    "rectangle": {
+        "prefix": "rectangle",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: rectangle",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Rectangle Shape for D2"
+    },
+    "square": {
+        "prefix": "square",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: square",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Square Shape for D2"
+    },
+    "page": {
+        "prefix": "page",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: page",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Page Shape for D2"
+    },
+    "parallelogram": {
+        "prefix": "parallelogram",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: parallelogram",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Parallelogram Shape for D2"
+    },
+    "document": {
+        "prefix": "document",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: document",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Document Shape for D2"
+    },
+    "cylinder": {
+        "prefix": "cylinder",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: cylinder",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Cylinder Shape for D2"
+    },
+    "queue": {
+        "prefix": "queue",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: queue",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Queue Shape for D2"
+    },
+    "package": {
+        "prefix": "package",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: package",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Package Shape for D2"
+    },
+    "step": {
+        "prefix": "step",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: step",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Step Shape for D2"
+    },
+    "callout": {
+        "prefix": "callout",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: callout",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Callout Shape for D2"
+    },
+    "stored_data": {
+        "prefix": "stored_data",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: stored_data",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Stored Data Shape for D2"
+    },
+    "person": {
+        "prefix": "person",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: person",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Person Shape for D2"
+    },
+    "oval": {
+        "prefix": "oval",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: oval",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts an Oval Shape for D2"
+    },
+    "circle": {
+        "prefix": "circle",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: circle",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Circle Shape for D2"
+    },
+    "hexagon": {
+        "prefix": "hexagon",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: hexagon",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Hexagon Shape for D2"
+    },
+    "cloud": {
+        "prefix": "cloud",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: cloud",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Cloud Shape for D2"
+    },
+    "text": {
+        "prefix": "text",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: text",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Text Shape for D2"
+    },
+    "code": {
+        "prefix": "code",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: code",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Code Shape for D2"
+    },
+    "class": {
+        "prefix": "class",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: class",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Class Shape for D2"
+    },
+    "sql_table": {
+        "prefix": "sql_table",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: sql_table",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts an SQL Table Shape for D2"
+    },
+    "sequence_diagram": {
+        "prefix": "sequence_diagram",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: sequence_diagram",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts a Sequence Diagram Shape for D2"
+    },
+    "image": {
+        "prefix": "image",
+        "body": [
+            "  ${1:className}: \"${2:Class Title}\" {",
+            "\tshape: image",
+            "\ticon: ${3:",
+            "  }"
+        ],
+        "description": "Inserts an Image Shape for D2"
+    },
+    "style": {
+        "prefix": "style",
+        "body": [
+            "\tstyle: {",
+            "\t\t# opacity: 0.4,\t\t#",
+            "\t\t# stroke: \"#f4a261\",   #",
+            "\t\t# fill: \"#f4a261\",\t # (shape only)",
+            "\t\t# stroke-width: 1,\t #",
+            "\t\t# stroke-dash: 5,\t  #",
+            "\t\t# border-radius: 3,\t# (shape only)",
+            "\t\t# shadow: false,\t   # (shape only)",
+            "\t\t# 3D: false,\t\t   # (rectangle/square only)",
+            "\t\t# multiple: false,\t # (shape only)",
+            "\t\t# font-size: 28,\t   #",
+            "\t\t# font-color: red,\t #",
+            "\t\t# animated: false,\t # (connection only)",
+            "\t\t# bold: false,\t\t #",
+            "\t\t# italic: false,\t   #",
+            "\t\t# underline: false\t #",
+            "\t}",
+            ""
+        ],
+        "description": "Inserts a Style with All Default Values"
+    },
+    "Arrow Arrowhead": {
+        "prefix": "ararrow",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: arrow",
+            "}",
+            "target-arrowhead:  {",
+            "\t  shape: arrow",
+            "}"
+        ],
+        "description": "Inserts an Arrow Arrowhead"
+    },
+    "Diamond Arrowhead": {
+        "prefix": "ardiamond",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: diamond",
+            "}",
+            "target-arrowhead:  {",
+            "\t  shape: diamond",
+            "}"
+        ],
+        "description": "Inserts a Diamond Arrowhead"
+    },
+    "Circle Arrowhead": {
+        "prefix": "arcircle",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: circle",
+            "}",
+            "target-arrowhead:  {",
+            "\t  shape: circle",
+            "}"
+        ],
+        "description": "Inserts a Circle Arrowhead"
+    },
+    "Crows Foot One Arrowhead": {
+        "prefix": "arcfone",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: cf-one",
+            "}",
+            "target-arrowhead:  {",
+            "\t  shape: cf-one",
+            "}"
+        ],
+        "description": "Inserts a Crows Foot One Arrowhead"
+    },
+    "Crows Foot One Required Arrowhead": {
+        "prefix": "arcfonereq",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: cf-one-required",
+            "}",
+            "target-arrowhead:  {",
+            "\t  shape: cf-one-required",
+            "}"
+        ],
+        "description": "Inserts a Crows Foot One Required Arrowhead"
+    },
+    "Crows Foot Many Arrowhead": {
+        "prefix": "arcfmany",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: cf-many",
+            "}",
+            "target-arrowhead:  {",
+            "\t  shape: cf-many",
+            "}"
+        ],
+        "description": "Inserts a Crows Foot Many Arrowhead"
+    },
+    "Crows Foot Many Required Arrowhead": {
+        "prefix": "arcfmanyreq",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: cf-many-required",
+            "}",
+            "target-arrowhead:  {",
+            "\t  shape: cf-many-required",
+            "}"
+        ],
+        "description": "Inserts a Crows Foot Many Required Arrowhead"
+    },
+    "Filled Diamond Arrowhead": {
+        "prefix": "ardiamondfill",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: diamond",
+            "\tstyle.filled: true",
+            "}",
+            "target-arrowhead:  {",
+            "\tshape: diamond",
+            "\tstyle.filled: true",
+            "}"
+        ],
+        "description": "Inserts a Filled Diamond Arrowhead"
+    },
+    "Filled Circle Arrowhead": {
+        "prefix": "arcirclefill",
+        "body": [
+            "source-arrowhead: {",
+            "\tshape: circle",
+            "\tstyle.filled: true",
+            "}",
+            "target-arrowhead:  {",
+            "\tshape: circle",
+            "\tstyle.filled: true",
+            "}"
+        ],
+        "description": "Inserts a Filled Circle Arrowhead"
+    }
+}
