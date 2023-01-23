@@ -2,220 +2,252 @@
     "rectangle": {
         "prefix": "rectangle",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: rectangle",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Rectangle Shape for D2"
     },
     "square": {
         "prefix": "square",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: square",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Square Shape for D2"
     },
     "page": {
         "prefix": "page",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: page",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Page Shape for D2"
     },
     "parallelogram": {
         "prefix": "parallelogram",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: parallelogram",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Parallelogram Shape for D2"
     },
     "document": {
         "prefix": "document",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: document",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Document Shape for D2"
     },
     "cylinder": {
         "prefix": "cylinder",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: cylinder",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Cylinder Shape for D2"
     },
     "queue": {
         "prefix": "queue",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: queue",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Queue Shape for D2"
     },
     "package": {
         "prefix": "package",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: package",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Package Shape for D2"
     },
     "step": {
         "prefix": "step",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: step",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Step Shape for D2"
     },
     "callout": {
         "prefix": "callout",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: callout",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Callout Shape for D2"
     },
     "stored_data": {
         "prefix": "stored_data",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: stored_data",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Stored Data Shape for D2"
     },
     "person": {
         "prefix": "person",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: person",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Person Shape for D2"
+    },
+    "diamond": {
+        "prefix": "diamond",
+        "body": [
+            "${1:className}: \"${2:Class Title}\" {",
+            "\tshape: diamond",
+            "",
+            "\t${3:data}",
+            "}"
+        ],
+        "description": "Inserts a diamond Shape for D2"
     },
     "oval": {
         "prefix": "oval",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: oval",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts an Oval Shape for D2"
     },
     "circle": {
         "prefix": "circle",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: circle",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Circle Shape for D2"
     },
     "hexagon": {
         "prefix": "hexagon",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: hexagon",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Hexagon Shape for D2"
     },
     "cloud": {
         "prefix": "cloud",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: cloud",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Cloud Shape for D2"
     },
     "text": {
         "prefix": "text",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: text",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Text Shape for D2"
     },
     "code": {
         "prefix": "code",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: code",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Code Shape for D2"
     },
     "class": {
         "prefix": "class",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: class",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Class Shape for D2"
     },
     "sql_table": {
         "prefix": "sql_table",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: sql_table",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts an SQL Table Shape for D2"
     },
     "sequence_diagram": {
         "prefix": "sequence_diagram",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: sequence_diagram",
-            "\ticon: ${3:",
-            "  }"
+            "",
+            "\t${3:data}",
+            "}"
         ],
         "description": "Inserts a Sequence Diagram Shape for D2"
     },
     "image": {
         "prefix": "image",
         "body": [
-            "  ${1:className}: \"${2:Class Title}\" {",
+            "${1:className}: \"${2:Class Title}\" {",
             "\tshape: image",
-            "\ticon: ${3:",
-            "  }"
+            "\ticon: ${3:iconLink}",
+            "}"
         ],
         "description": "Inserts an Image Shape for D2"
     },
